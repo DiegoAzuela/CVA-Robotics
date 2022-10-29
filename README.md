@@ -2,5 +2,5 @@
 > Teaching material to promote robotics and education in Mexico
 
 # Collaboration
-- ITESM
+- Monterrey Institute of Technology (ITESM)
 - Benjamin Raygoza
